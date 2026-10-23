@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/archont561/archont561.r-universe.dev
 	branch = HEAD
+[submodule "playtest"]
+	path = playtest
+	url = https://github.com/Archont561/playtest
+	branch = *release
+	subdir = r
